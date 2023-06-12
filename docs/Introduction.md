@@ -31,7 +31,7 @@ and then try to run the [Gradus examples](https://astro-group-bristol.github.io/
 
 ## GitHub
 
-Fergus has a really nice [workflow example (PDF)](docs/workflow-example.pdf) for using GitHub. For contributing to the project you can create a "fork" of this repository and then make changes to your fork. You can then make a "pull request" to merge your changes into the main repository. This is a good way to keep track of changes and to make sure that the code is always working. All the details are in Fergus' workflow example.
+Fergus has a really nice [workflow example (PDF)](workflow-example.pdf) for using GitHub. For contributing to the project you can create a "fork" of this repository and then make changes to your fork. You can then make a "pull request" to merge your changes into the main repository. This is a good way to keep track of changes and to make sure that the code is always working. All the details are in Fergus' workflow example.
 
 ## The problem
 
