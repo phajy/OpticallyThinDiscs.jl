@@ -47,4 +47,4 @@ Here are some interesting papers and review articles to read.
 
 ### What we (might) want to do
 
-This is obviously a work in progress and will need some discussion! However, I think we might start by trying to create some nice images of photon rings assuming some simple background emissivity model for an optically think accretion flow. We can then look at the lensing and timing properties of "flares" within this flow at different radial and angular positions.
+This is obviously a work in progress and will need some discussion! However, I think we might start by trying to create some nice images of photon rings assuming some simple background emissivity model for an optically think accretion flow. We can then look at the lensing and timing properties of "flares" within this flow at different radial and angular positions. It might also be interesting to look at special orbits in various metrics, e.g., photon spheres.
