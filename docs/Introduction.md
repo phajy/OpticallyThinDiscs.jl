@@ -6,6 +6,8 @@ We're interested in simulating optically thin, radiatively inefficient accretion
 - [Gradus](#gradus)
 - [GitHub](#github)
 - [The problem](#the-problem)
+    - [Papers](#papers)
+    - [What we (might) want to do](#what-we-might-want-to-do)
 
 ## Julia and VSCode
 
@@ -37,7 +39,7 @@ Fergus has a really nice [workflow example (PDF)](workflow-example.pdf) for usin
 
 ### Papers
 
-Here are some interesting papers and review articles to read.
+Here are some interesting papers and review articles to read. You might want to use some paper / reference manager. I have been using [Zotero](https://www.zotero.org/) but others are available.
 
 - [Measuring Black Hole Spin Using X-Ray Reflection Spectroscopy](https://ui.adsabs.harvard.edu/abs/2014SSRv..183..277R/abstract) by Reynolds (2014).
 - [First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7) by the EHT Collaboration et al. (2019).
