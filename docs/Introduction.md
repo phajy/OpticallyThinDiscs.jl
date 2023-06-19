@@ -8,6 +8,7 @@ We're interested in simulating optically thin, radiatively inefficient accretion
 - [The problem](#the-problem)
     - [Papers](#papers)
     - [What we (might) want to do](#what-we-might-want-to-do)
+    - [Photon paths from point sources](#photon-paths-from-point-sources)
 
 ## Julia and VSCode
 
@@ -47,6 +48,16 @@ Here are some interesting papers and review articles to read. You might want to 
 - [Rapid X-ray flaring from the direction of the supermassive black hole at the Galactic Centre](https://ui.adsabs.harvard.edu/abs/2001Natur.413...45B/abstract) by Baganoff et al. (2001).
 - [Chandra X-Ray Spectroscopic Imaging of Sagittarius A* and the Central Parsec of the Galaxy](https://ui.adsabs.harvard.edu/abs/2003ApJ...591..891B/abstract) by Baganoff et al. (2003).
 
+In Fergus's Gradus code you will find references to 2D transfer functions and reverberation mapping. Reverberation mapping looks at the time delays between variability in the corona and the time delayed response from the disc. The corona is sometimes modelled as a point source, the "lamp post" model, for simplicity. Here are some papers describing X-ray reverberation.
+
+- A nice review of [Fluorescent iron lines as a probe of astrophysical black hole systems](https://ui.adsabs.harvard.edu/abs/2003PhR...377..389R/abstract) by Reynolds & Nowak (2003).
+- [X-Ray Iron Line Reverberation from Black Hole Accretion Disks](https://ui.adsabs.harvard.edu/abs/1999ApJ...514..164R/abstract) by Reynolds et al. (1999).
+- [X-ray reverberation around accreting black holes](https://ui.adsabs.harvard.edu/abs/2014A%26ARv..22...72U/abstract) by Uttley et al. (2014). Might have more technical details than you need right now.
+
 ### What we (might) want to do
 
 This is obviously a work in progress and will need some discussion! However, I think we might start by trying to create some nice images of photon rings assuming some simple background emissivity model for an optically think accretion flow. We can then look at the lensing and timing properties of "flares" within this flow at different radial and angular positions. It might also be interesting to look at special orbits in various metrics, e.g., photon spheres.
+
+### Photon paths from point sources
+
+We can make use of the "lamp post" model in Gradus that is used to trace photons from a point source to an accretion disc. However, in our case we want to do this without the accretion disc being present.
